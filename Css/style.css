@@ -1,0 +1,113 @@
+h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+
+
+.container.text-center {
+    margin-bottom: 10px;
+ }
+
+ p{
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+ }
+
+ #firstblock {
+    
+    background-color: #00ccb1;
+    border-radius: 25px;
+    margin-right: 10px;
+    padding: 10px;
+ }
+
+ #Secondblock{
+    background-color: #3d83df;
+    border-radius: 25px;
+    margin-right: 10px;
+    padding: 10px;
+ }
+ #thirdblock{
+    background-color: #1b2734;
+    border-radius: 25px;
+    padding: 10px;
+ }
+ #titleblockone{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+ }
+ #paragraphblockone{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+ }
+ #icon{
+    color: #fff;
+ }
+ #select{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #080404;
+ }
+ #b1{
+    float: left;
+    width: 33%;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+ }
+#img{
+    
+}
+.logo-docplanner {
+   width: 268px;
+   height: 33px;
+}
+#aboutus{
+
+color: #00b39b;
+display: block;
+text-decoration: none;
+padding: 0 0.6em
+}
+.main-menu:hover{
+color: red;
+}
+.main-menu {
+   justify-content: space-around;
+   display: flex;
+   list-style: none;
+ 
+   }
+
+.col:hover{
+   color: red;
+}
+#gipo {
+   height: 34px;
+}
+#clinic {
+   height: 34px; 
+}
+#clinic :hover{
+   color: red;
+}
+#feegow{
+
+}
+.stats {
+   display:flex
+}
